@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 #include <cmath>
 
 double fixedPointIteration(double M, double e, double initial_guess, double tolerance, int max_iterations) {
@@ -93,3 +93,4 @@ int main() {
 
     return 0;
 }
+
